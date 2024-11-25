@@ -377,10 +377,19 @@ body {
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    transition: all 0.3s;
 }
 .play_btn>i {
     font-size: 20px;
     filter: invert(1);
+    transition: all 0.3s;
+}
+.play_btn:hover > i {
+    filter: invert(0);
+}
+.play_btn:hover {
+    background-color: black;
+    border: 2px solid white;
 }
 .tags {
     width: 100%;
