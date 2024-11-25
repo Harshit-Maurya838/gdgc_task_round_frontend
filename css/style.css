@@ -125,7 +125,15 @@ body {
 }
 
 .nav_elements li {
+    color: grey;
     cursor: pointer;
+    transition: all 0.3s;
+}
+.nav_elements li:hover {
+    color: white;
+    padding-bottom: 3px;
+    border-bottom: 2px solid white;
+    transform: scale(1.1);
 }
 
 .signup {
