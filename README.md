@@ -6,6 +6,8 @@ Oucher is a visually appealing website created to showcase good design principle
 
 Check out the live demo here: [Deployed Link](https://harshit-maurya838.github.io/gdgc_task_round_frontend/)
 
+Link(if above link not worked) - https://harshit-maurya838.github.io/gdgc_task_round_frontend/
+
 ## Features
 
 - Simple and intuitive UI.
